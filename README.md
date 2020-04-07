@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Desktop" title="#Desktop" src="src/assets/01.png" width="680px" />
+    <img alt="Desktop" title="#Desktop" src="src/assets/01.png" />
 </div>
 
 <p align="center">
@@ -41,7 +41,7 @@ Clone o repositório em sua maquina:
 ## Layout
 
 <div align="center">
-    <img alt="Mobile" title="#Mobile" src="src/assets/02.png" width="680px" />
+    <img alt="Mobile" title="#Mobile" src="src/assets/02.png" />
 </div>
 
 <div align="center">
